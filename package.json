@@ -1,0 +1,22 @@
+{
+  "name": "dev-myfunctions",
+  "version": "1.0.0",
+  "description": "functions and components that help improve application production",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Erro: nenhum teste especificado\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MilianoJunior/myfunctions.git"
+  },
+  "keywords": [
+    "functions"
+  ],
+  "author": "milianojunior39",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MilianoJunior/myfunctions/issues"
+  },
+  "homepage": "https://github.com/MilianoJunior/myfunctions#readme"
+}
