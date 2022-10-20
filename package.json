@@ -1,0 +1,10 @@
+{
+  "name": "test-myfunctions",
+  "version": "1.0.0",
+  "description": "functions and components that help improve application production",
+  "main": "index.js",
+  "type":"module",
+  "dependencies": {
+    "dev-myfunctions": "^1.0.1"
+  }
+}
